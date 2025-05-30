@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"biometric-7b07e","appId":"1:173433181560:android:ea464c752cb526b8f1a48d","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"biometric-7b07e","configurations":{"android":"1:173433181560:android:ea464c752cb526b8f1a48d","ios":"1:173433181560:ios:010efaaa66f1bf08f1a48d"}}}}}}

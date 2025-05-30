@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173433181560",
+    "firebase_url": "https://biometric-7b07e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "biometric-7b07e",
+    "storage_bucket": "biometric-7b07e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173433181560:android:ea464c752cb526b8f1a48d",
+        "android_client_info": {
+          "package_name": "com.example.h8_fli_biometric_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbnj0DcGNFZn2DdZooBbKDnR__p9VHrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
